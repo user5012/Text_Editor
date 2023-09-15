@@ -1,0 +1,59 @@
+h1{
+    text-align: center;
+            background-color: none;
+            color: none;
+            border: 4px solid #000;
+            padding: 0;
+            font-size: 36px;
+            font-weight: bold;
+}
+
+.tops a {
+    display: inline-block;
+            padding: 12px 24px;
+            margin: 1px 6px;
+            background-color: #2555d8;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 4px;
+            transition: background-color 0.3s ease;
+            font-size: 16px;
+            font-weight: bold;
+            border: 2px solid #2980b9;
+            cursor: pointer;
+}
+
+.tops a:hover {
+    background-color: #000;
+}
+
+img{
+    text-align: center;
+    border: 2px solid #504f4f; /* Blue border */
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+
+.footer footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: left;
+}
+
+body {
+    background-color: #b4b0b0;
+            color: #fff; /* Set text color to white for better readability on a black background */
+            font-family: Arial, sans-serif; /* Choose a suitable font-family */
+            margin: 0; /* Remove default margin */
+            padding: 0; /* Remove default padding */
+}
